@@ -1,0 +1,19 @@
+{
+    "name": "cristian93/api-orders",
+    "description": "prueba",
+    "type": "package",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Cristian93\\ApiOrders\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CristianC42",
+            "email": "99833587+CristianC42@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
